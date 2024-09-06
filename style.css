@@ -1,0 +1,8 @@
+*{
+  font-family: "Lato", sans-serif;
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.6); 
+  padding: 20px;
+  border-radius: 10px;
+}
